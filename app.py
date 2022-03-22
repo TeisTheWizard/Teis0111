@@ -52,7 +52,7 @@ dash_app.layout = html.Div(
                 children=[
                     html.Div(className='four columns div-user-controls',
                             children=[
-                                html.H2('Sales dashboard'),
+                                html.H2('Sales dashboard - hej med dig'),
                                 html.P('Select filters from dropdown'),
 
                     html.Div(children="Month", className="menu-title"),
