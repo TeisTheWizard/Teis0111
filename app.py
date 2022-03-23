@@ -78,7 +78,7 @@ dash_app.layout = html.Div(style={'backgroundColor':'lightgrey'},
                             ),
                     html.Div(className ='row',
                             children=[
-                                html.P(['', html.Br(),  html.Br(), html.Br(),  html.Br(),  html.Br(),  html.Br(),'']),
+                                html.P(['', html.Br(),  html.Br(),'']),
                                 html.P('Made by: Teis Henriksen',style={'textAlign':'center','color':'blue'})
                             ]),
                             ]
