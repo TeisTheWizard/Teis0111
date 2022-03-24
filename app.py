@@ -62,7 +62,7 @@ dash_app.layout = html.Div(style={'backgroundColor':'lightgrey'},
                 children=[
                     html.Div(className='four columns div-user-controls', style={'color':'darkblue'},
                             children=[
-                                html.H2('Sales dashboard', style={'color':'blue'}),
+                                html.H2('Sales dashboard', style={'color':'blue','textAlign':'center'}),
                                 html.P('Employee and Product', style={'textAlign':'center','color':'blue'}),
                                 html.P('Select filters from dropdown', style={'textAlign':'center','color':'blue'}),
 
