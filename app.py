@@ -131,7 +131,6 @@ def update_graph(drop_month, drop_year):
               [Input('drop_year', 'value')])
 
 def update_graph(drop_month, drop_year):
-    title1 = 'Test'
     if drop_year:
         if drop_month:
             # Data i både drop_month og drop_year
